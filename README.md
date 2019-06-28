@@ -1,1 +1,1 @@
-"# smcer.github.io" 
+https://carlosarman.github.io/smcer/
